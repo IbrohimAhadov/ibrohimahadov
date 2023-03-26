@@ -4,7 +4,7 @@ h1 align="center">Hi 👋, I'm Ibrohim Ahadov</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrohimahadov&label=Profile%20views&color=0e75b6&style=flat" alt="ibrohimahadov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrohimahadov" alt="ibrohimahadov" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ibrohim_ahadov" target="blank"><img src="https://img.shields.io/twitter/follow/ibrohim_ahadov?logo=twitter&style=for-the-badge" alt="ibrohim_ahadov" /></a> </p>
 
