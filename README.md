@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **html and css and java**
 
-- 📫 How to reach me **iahadov88@gmail.com**
+  
 
 - 📄 Know about my experiences [https://github.com/IbrohimAhadov](https://github.com/IbrohimAhadov)
 
